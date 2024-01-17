@@ -13,6 +13,11 @@ Dans un deuxième temps, une fois le modèle de segmentation choisi, nous souhai
 
 
 ## Objectifs du projet
+- Analyse des données
+- Tableau RFM client
+- Clustering ML (k-means, DBScan, Agglomerativ clustering)
+- Délai de maintenance du modèle
+  
 ## Compétences évaluées
 - Adapter les hyperparamètres d'un algorithme non supervisé afin de l'améliorer
 - Évaluer les performances d’un modèle d'apprentissage non supervisé
