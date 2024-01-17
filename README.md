@@ -13,9 +13,14 @@ Dans un deuxième temps, une fois le modèle de segmentation choisi, nous souhai
 
 
 ## Objectifs du projet
-- Analyse des données
-- Tableau RFM client
-- Clustering ML (k-means, DBScan, Agglomerativ clustering)
+- Analyse exploratoire des données, diagrammes à barres, diagrammes circulaire, regroupement de variables dans un seul dataset
+- Imputation de valeurs manquantes avec moyenne
+- Outliers, boîtes à moustaches
+- Calculs de moyenne
+- Tableau RFM (Récence, Fréquence, Montant) client
+- Clustering simple selon méthode RFM, clustering Machine Learning (K-means, DBScan, Agglomerativ clustering)
+- Visualisation des clusters en 3D
+- Réduction de dimensions PCA pour graphique 2D (avec éboulis des valeurs propres)
 - Délai de maintenance du modèle
   
 ## Compétences évaluées
